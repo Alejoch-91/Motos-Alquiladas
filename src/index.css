@@ -1,11 +1,5 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-:root {
-  background-color: #020617;
-  color: white;
-}
-
-body {
-  margin: 0;
-  font-family: sans-serif;
-}
+/* Tu código CSS personalizado debajo de esto si tienes alguno */
