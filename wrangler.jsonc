@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "motoslquiladas",
+  "compatibility_date": "2026-04-27",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "moto-admin"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
